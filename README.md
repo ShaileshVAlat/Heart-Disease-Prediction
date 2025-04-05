@@ -6,8 +6,7 @@ The objective of this project is to detect whether the person has any chances  o
 not by giving number of features to patients with having maximum accuracy of above 97%. By
 Using Machine learning algorithms and deep learning are applied to compare the results and
 analysis of the UCI Machine Learning Heart Disease dataset. 
-## DEMO -: 
-:point_right: https://med-x-webapp.herokuapp.com/
+
 ## Accuracy of the Models and Algorithms Used
 
 | Sr no    | Algorithm Used | Accuracy     |
